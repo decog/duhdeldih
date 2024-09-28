@@ -17,8 +17,7 @@ Footnotes
   This is a second line.
 
   <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://lh5.googleusercontent.com/5I4DnGrYudxN-d_2MhRn9B1_W4J7jAFLJTEpV10FMRErVG-6TlK59wTJSdodYF8EE_-7eo-c7Um1oOw7dZoshc7gkxEUNbfbNVpJtnFNIm9SH8Hms0wROUQEGT1rtkIJew=w360
-">
- <source media="(prefers-color-scheme: light)" srcset="https://lh5.googleusercontent.com/5I4DnGrYudxN-d_2MhRn9B1_W4J7jAFLJTEpV10FMRErVG-6TlK59wTJSdodYF8EE_-7eo-c7Um1oOw7dZoshc7gkxEUNbfbNVpJtnFNIm9SH8Hms0wROUQEGT1rtkIJew=w360">
+ <source media="(prefers-color-scheme: dark)" srcset="https://science.nasa.gov/wp-content/uploads/2023/08/moon-phases-jpl.png?w=2048&format=webp">
+ <source media="(prefers-color-scheme: light)" srcset="https://science.nasa.gov/wp-content/uploads/2023/08/moon-phases-jpl.png?w=2048&format=webp">
  <img alt="Hesh Kegh K'engguya" src="YOUR-DEFAULT-IMAGE">
 </picture>
