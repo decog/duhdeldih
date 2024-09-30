@@ -1,7 +1,7 @@
 # Prototype Assignment
-Tebughna Foundation Teacher Pilot Cohort
+Tebughna Foundation Teacher Pilot Cohort for Elementary Dena'ina Teaching Certification
 
-Curriuculum prototype assignment response
+Curriuculum prototype: assignment response
 
 Reading Mechanics Sava Stephan Message			Title: RM_HW1_Sava Message
 
