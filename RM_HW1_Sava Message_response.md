@@ -9,24 +9,25 @@ Deco
 
 
 ## Highlight backvelars and underline affected vowels:
+- [x] read silent
+- [x] read aloud
+- [ ] read aloud together
 
 | Rank | THING-TO-RANK |
 |-----:|---------------|
-|     1|               |
-|     2|               |
-|     3|               |
+|     Chin’an **h**ech’ qeshnash hu shch’ qenadelghesh ch’u.| [Practice](https://drive.google.com/file/d/11-waxiTqPSuBOzZptMAVkY1CW5jQl4le/view?usp=drive_link) |
+|     Shi k’a hech’ qeshnish[^1], hech’ qeshnash shu,|               |
+|     Chiqinik gheli shtunutghelggesh dghu.|               |
 
 Chin’an **h**ech’ qeshnash hu shch’ qenadelghesh ch’u.
  
-Shi k’a hech’ qeshnish, hech’ qeshnash shu,
+Shi k’a hech’ qeshnish[^1], hech’ qeshnash shu,
 
 Chiqinik gheli shtunutghelggesh dghu.
 
-
-## I had difficulty pronouncing this one:
-
+[^1]:I had difficulty pronouncing this one:
 Shi k’a hech’ qeshnish, hech’ qeshnash shu.
-Sounds different than I expected in the recording.
+It sounds different than I expected in the recording.
 
 
 ## Rewrite it with latin “s” as ś instead of sh:
@@ -49,5 +50,10 @@ Chiqinik gheli
 
 ## Bonus activity:
 Submit assignment using github “markup language”
+key lessons learned:
+
+> [!IMPORTANT]
+> to view appearance of "markup" files must be renamed with a ".md" file type extension at the end of the name
+> ie: "RM_HW1_Sava Message_response.md" or "README.md"
 
 
