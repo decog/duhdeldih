@@ -1,14 +1,17 @@
-# Prototype Assignment
-Tebughna Foundation Teacher Pilot Cohort for Elementary Dena'ina Teaching Certification
+# Prototype Assignment Response
+Tebughna Foundation Teacher Pilot Cohort for Elementary Dena'ina Teaching Certification course
 
-Curriuculum prototype: assignment response
+Assignment Title:
+Reading Mechanics Sava Stephan Message (RM_HW1_Sava Message)
 
-Reading Mechanics Sava Stephan Message			Title: RM_HW1_Sava Message
+Assignment Credit:
+Hna'estał Edna Standifer at Tebughna Foundation 2024
 
-Lessons by Hna'estał Edna Standifer 2024
+Assignment Date:
+9/31/2024
 
-Assignment Date 9/31/2024
-Student Deco
+Student:
+Deco
 
 resource: [Sava Stephan's Message to Upper Inlet Dena'ina Language Learners](https://sava.qenaga.org/message)
 
@@ -31,9 +34,11 @@ This should be fun:
  
 ![read aloud](https://github.com/user-attachments/assets/81566473-d82a-4b80-a9b9-248dc031c589)
 
-> Chin’an **h**ech’ qeshnash hu shch’ qenadelghesh ch’u. 
+> Chin’an **h**ech’ qeshnash hu
 
 https://github.com/user-attachments/assets/99d5c675-6d8a-4090-bede-06884ca0ef8f
+
+>shch’ qenadelghesh ch’u. 
 
 https://github.com/user-attachments/assets/c48cd8f6-9c6b-485a-847f-93ed3c9d2baf
 
@@ -76,10 +81,10 @@ It sounds different than I expected in the recording.
 
 > Chin’an hech’ qeśnaś hu(ho) 
 > śch’ qenadelgheś ch’u (fire-adle-hoist-chew)
-
+> 
 > Śi k’a hech’ qeśniś 
 > hech’ qeśnaś śu,
-
+> 
 > Chiqinik gheli 
 > Śtunutghelggeś dghu (stew-noodle-guess doh)
 
@@ -88,9 +93,5 @@ It sounds different than I expected in the recording.
 ## Bonus activity:
 Submit assignment using github “markup language”
 Record and submit readaloud
-
-> [!IMPORTANT]
-> to view appearance of "markup" files must be renamed with a ".md" file type extension at the end of the name
-> ie: "RM_HW1_Sava Message_response.md" or "README.md"
 
 
