@@ -40,7 +40,8 @@ https://github.com/user-attachments/assets/99d5c675-6d8a-4090-bede-06884ca0ef8f
 
 >shch’ qenadelghesh ch’u. 
 
-https://github.com/user-attachments/assets/c48cd8f6-9c6b-485a-847f-93ed3c9d2baf
+https://github.com/user-attachments/assets/04d693d8-841a-4317-93f6-a52960103cc7
+
 
 > Shi k’a hech’ qeshnish[^2], hech’ qeshnash shu,
 
@@ -91,7 +92,8 @@ It sounds different than I expected in the recording.
 
 
 ## Bonus activity:
-Submit assignment using github “markup language”
-Record and submit readaloud
+> Submit assignment using github “markup language”
+> 
+> Record and submit readaloud
 
 
