@@ -1,11 +1,14 @@
-# Teacher Pilot Cohort
-curriuculum prototype to test options for migration language learning resources to github
-
 # Prototype Assignment
+Tebughna Foundation Teacher Pilot Cohort
+
+Curriuculum prototype assignment response
+
 Reading Mechanics Sava Stephan Message			Title: RM_HW1_Sava Message
 
-9/31/2024
-Deco
+Lessons by Hna'estał Edna Standifer 2024
+
+Assignment Date 9/31/2024
+Student Deco
 
 resource: [Sava Stephan's Message to Upper Inlet Dena'ina Language Learners](https://sava.qenaga.org/message)
 
@@ -84,7 +87,7 @@ It sounds different than I expected in the recording.
 
 ## Bonus activity:
 Submit assignment using github “markup language”
-key lessons learned:
+Record and submit readaloud
 
 > [!IMPORTANT]
 > to view appearance of "markup" files must be renamed with a ".md" file type extension at the end of the name
