@@ -89,6 +89,18 @@ It sounds different than I expected in the recording.
 > Chiqinik gheli 
 > Śtunutghelggeś dghu (stew-noodle-guess doh)
 
+## Understanding Sava’s Message:
+
+> Tell them that I thank them
+and I like to see them all the time when they coming.
+> Talk to me, and I talk back to them, speak to them and everything else.
+I thank them for that.
+>
+> He wishes to communicate his gratitude and that he sees them on their frequent visits to learn his language.
+>
+> He likes when they talk to him and he talks back to them and the process of language learning and sharing.
+>
+> Given he is one of few Dena’ina speakers Cody pointed out that opportunities to hear his own language may have been scarce outside of the language learning visits. Listening to his message with this in mind one might imagine that the language learning efforts of others were comforting to him
 
 
 ## Bonus activity:
